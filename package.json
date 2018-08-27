@@ -1,0 +1,33 @@
+{
+  "name": "urbanhire",
+  "version": "1.0.0",
+  "description": "For Online Test Purpose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arfanfb/uhire.git"
+  },
+  "author": "arfanfb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arfanfb/uhire/issues"
+  },
+  "homepage": "https://github.com/arfanfb/uhire#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.9",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
